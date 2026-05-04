@@ -1,6 +1,6 @@
 # 3D Mechanical Robotic Asset - Meshy AI
 
- 📌 Layihə Haqqında
+ 📌 Layihə Haqqında:
 Bu layihə süni intellekt alətlərindən (Meshy.ai) istifadə edərək sənaye dizaynı və robototexnika üçün konseptual şassi modelinin yaradılması məqsədilə hazırlanıb.
 
  🛠️ Texniki Detallar
